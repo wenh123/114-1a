@@ -1,4 +1,4 @@
 # 114-1a
 個人網頁
 
-![NKUST](img_4556.jpeg "NKUST")
+![NKUST](IMG_4556.jpeg "NKUST")
